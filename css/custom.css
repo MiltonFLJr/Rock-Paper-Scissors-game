@@ -1,0 +1,253 @@
+@media (max-width:991px){
+
+.container .nofloat{
+  float:none !important;
+}
+
+.backgroundtri{
+  background-image: none !important;
+}
+.rowcustom2 .col-lg-6 {
+    padding-left: 0px !important;
+}
+
+.col-lg-6 .float-left{
+
+float:none !important;
+
+}
+
+.col-lg-5 .float-right{
+
+float:none !important;
+
+}
+
+.pt5custom{
+  padding-top: 3rem !important;
+}
+
+.scorestyle{
+  width:100% !important;
+}
+
+.lesswidth .container{
+ width:100% !important; 
+}
+
+.marginlogo{
+  margin-left: 0 !important;
+  margin-top:0 !important;
+      padding-top: 14px;
+}
+
+}
+
+body{
+ background-color:rgb(28,47,79) !important;
+ font-family: 'Barlow Semi Condensed', sans-serif !important;
+}
+
+.flexdisplay{
+ display:flex; 	
+}
+
+.griddisplay{ 
+ display: grid;
+}
+
+.text-center{
+ text-align: center;	
+}
+
+.relative{
+ position: relative;
+}
+
+.absolute{
+ position: absolute;	
+}
+
+.scorecenter{
+  position: absolute;
+ left: 50%;
+  top: 50%;
+ transform: translate(-50%, -50%);
+}
+
+.liststylenone{
+ list-style: none;	
+}
+
+.liststyle{
+ color:white;
+ font-size: 30px;
+ font-weight: 900;
+}
+
+.liststyle2{
+ color:hsl(229, 64%, 46%);
+ font-size:15px; 
+ font-weight: 900;
+}
+
+.liststyle3{
+ color:hsl(229, 25%, 31%);
+ font-size:60px; 
+}
+
+.bottompadtop{
+ padding-top: 150px;
+}
+
+.stylescore{
+ background-color:rgb(28,47,79);
+}
+
+.lesswidth .container{
+ width:850px; 
+}
+
+.iconoptionsstyle{
+	background-color: rgb(231,231,231);
+}
+
+.customcontainerwidth2 .container{
+    max-width: 800px;
+}
+
+.rowcustom2 .col-lg-6{
+ padding-left: 350px;
+}
+
+.customborder{
+border-radius: 47%;
+}
+
+.borderdimensions{
+	padding-right: 22px;
+    padding-left: 24px;
+    padding-top: 19px;
+    padding-bottom: 16px;
+}
+
+.borderdimensions2 {
+    padding-right: 24px;
+    padding-left: 16px;
+    padding-top: 28px;
+    padding-bottom: 13px;
+}
+
+.bordercolor{
+  border-color:rgb(78,189,208) !important;
+}
+
+.customcontainerwidth .container{
+
+ max-width: 620px;
+
+}
+
+.imgcustomheight{
+  height: 200px !important;
+}
+
+.paperpadding{
+  padding-top: 21px !important;
+    padding-right: 29px !important;
+    padding-left: 16px !important;
+    padding-bottom: 7px !important;
+}
+
+.rounded-circle2 {
+    border-radius: 47%!important;
+}
+
+.scorestyle{
+  background-color: rgb(252,251,249);
+      width: 57%;
+    margin-top: 10px;
+    margin-right: -53px;
+    height: 121px;
+}
+
+.borderopacity{
+  box-shadow: 0px 0px 0px 8px rgba(235,235,235,0.3);       
+}
+
+.letterstyle{
+    font-size: 20px;
+    font-weight: 900;
+    color:white;
+}
+
+.liststyle{
+list-style: none;
+}
+
+.congrats{
+   color:white;
+  font-size: 58px;
+ font-weight: 900;
+}
+
+.btncustom{
+background-color: white !important;
+min-width:200px;
+}
+
+.scissors:hover{
+  background-color:#FFFF69;
+}
+
+.paper:hover{
+  background-color:#73E0FA;
+}
+
+.rock:hover{
+  background-color:#FF606F;
+}
+
+.marginlogo{
+  margin-left: -36%;
+    margin-top: 5%;
+}
+
+.btncustom2{
+  box-shadow: 0px 0px 0px 8px rgba(1,1,1,0.3);  
+ background-color:rgb(28,47,79) !important;
+min-width:200px ;
+color:white !important;
+font-size: 30px !important;
+font-weight: 900 !important;
+
+}
+
+.customrules{
+  background-color: white;
+  z-index: 1;
+  margin: auto;
+  right:0;
+  left:0;
+  top: 14rem;
+}
+
+.customcontainer{
+  background-color: white;
+  top: 256px;
+}
+
+.iconclose{
+  height:1.5rem !important;
+  margin-top: 0.5rem;
+}
+
+.lesswidthmodal .container{
+  max-width:25rem;
+}
+
+.rulesfont{
+  font-size: 28px;
+  font-weight: 700;
+  color:hsl(229, 25%, 31%);
+}
